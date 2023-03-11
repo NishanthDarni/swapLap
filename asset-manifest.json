@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swapLap/static/css/main.f5123571.css",
+    "main.js": "/swapLap/static/js/main.8321da40.js",
+    "static/js/787.e5891fff.chunk.js": "/swapLap/static/js/787.e5891fff.chunk.js",
+    "index.html": "/swapLap/index.html",
+    "main.f5123571.css.map": "/swapLap/static/css/main.f5123571.css.map",
+    "main.8321da40.js.map": "/swapLap/static/js/main.8321da40.js.map",
+    "787.e5891fff.chunk.js.map": "/swapLap/static/js/787.e5891fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5123571.css",
+    "static/js/main.8321da40.js"
+  ]
+}
