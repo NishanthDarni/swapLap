@@ -13,10 +13,10 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-      <Route path="/swapLap/login" element={<Login />}/>
-      <Route path="/swapLap" element={<Nav/>}/>
-      <Route path="/swapLap/signUp" element={<SignUp/>}/>
-      <Route path="/swapLap/sell" element={<Sell/>}/>
+      <Route path="https://nishanthdarni.github.io/swapLap/login" element={<Login />}/>
+      <Route path="https://nishanthdarni.github.io/swapLap/" element={<Nav/>}/>
+      <Route path="https://nishanthdarni.github.io/swapLap//signUp" element={<SignUp/>}/>
+      <Route path="https://nishanthdarni.github.io/swapLap//sell" element={<Sell/>}/>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
