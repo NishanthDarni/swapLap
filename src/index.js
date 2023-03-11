@@ -13,10 +13,10 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-      <Route path="/login" element={<Login />}/>
-      <Route path="/" element={<Nav/>}/>
-      <Route path="/signUp" element={<SignUp/>}/>
-      <Route path="/sell" element={<Sell/>}/>
+      <Route path="/swapLap/login" element={<Login />}/>
+      <Route path="/swapLap" element={<Nav/>}/>
+      <Route path="/swapLap/signUp" element={<SignUp/>}/>
+      <Route path="/swapLap/sell" element={<Sell/>}/>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
