@@ -1,0 +1,10 @@
+/* This file contains style for link tag*/
+
+.link{
+    text-decoration: none;
+    color:black;
+}
+
+.link:hover{
+    color:white;
+}

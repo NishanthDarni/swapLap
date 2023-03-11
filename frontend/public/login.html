@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div className="login">
+        <h1>Login</h1>
+        <form action="/login" method="post">
+            <div className="box">
+                <i className="fa-solid fa-envelope"></i>
+                <input className="input" type="email" name="emailId" id="email" placeholder="Enter email"/>
+            </div>
+            <br/>
+            <br/>
+            <div className="box">
+                <i className="fa-solid fa-lock"></i>
+                <input className="input" type="password" name="password" id="password" placeholder="Enter password"/>
+            </div>
+            <br/>
+            <br/>
+            <button className="btn">Login</button>
+            <a href="#" className="frgt"><p>Forgot password?</p></a>
+            <a href="signup.html" className="signUp"><p>Don't have an account?sign up</p></a>
+        </form>
+    </div>
+</body>
+</html>

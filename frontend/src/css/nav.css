@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+.nav-item-margin{
+    margin-left:5px;
+    margin-right:10px;
+}
+
+.forFontStyle{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+.d-flex{
+    width:80%;
+    padding-right:5%;
+}
+
+.btn-search{
+    width:auto;
+}
